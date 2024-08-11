@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/rajchhatwani.io/static/css/main.3fc8ac9a.css",
+    "main.js": "/rajchhatwani.io/static/js/main.4cca03c3.js",
+    "static/js/964.763e6f1c.chunk.js": "/rajchhatwani.io/static/js/964.763e6f1c.chunk.js",
+    "static/js/117.5803798e.chunk.js": "/rajchhatwani.io/static/js/117.5803798e.chunk.js",
+    "static/js/478.69df9860.chunk.js": "/rajchhatwani.io/static/js/478.69df9860.chunk.js",
+    "static/js/922.a9748d02.chunk.js": "/rajchhatwani.io/static/js/922.a9748d02.chunk.js",
+    "static/js/161.ef6d1258.chunk.js": "/rajchhatwani.io/static/js/161.ef6d1258.chunk.js",
+    "static/js/18.45393e00.chunk.js": "/rajchhatwani.io/static/js/18.45393e00.chunk.js",
+    "static/js/248.e62fa093.chunk.js": "/rajchhatwani.io/static/js/248.e62fa093.chunk.js",
+    "static/js/209.32193747.chunk.js": "/rajchhatwani.io/static/js/209.32193747.chunk.js",
+    "static/js/625.2fbf6776.chunk.js": "/rajchhatwani.io/static/js/625.2fbf6776.chunk.js",
+    "static/js/745.b5c83463.chunk.js": "/rajchhatwani.io/static/js/745.b5c83463.chunk.js",
+    "static/media/about.md": "/rajchhatwani.io/static/media/about.a5b4bf08f2c693b796c6.md",
+    "index.html": "/rajchhatwani.io/index.html",
+    "main.3fc8ac9a.css.map": "/rajchhatwani.io/static/css/main.3fc8ac9a.css.map",
+    "main.4cca03c3.js.map": "/rajchhatwani.io/static/js/main.4cca03c3.js.map",
+    "964.763e6f1c.chunk.js.map": "/rajchhatwani.io/static/js/964.763e6f1c.chunk.js.map",
+    "117.5803798e.chunk.js.map": "/rajchhatwani.io/static/js/117.5803798e.chunk.js.map",
+    "478.69df9860.chunk.js.map": "/rajchhatwani.io/static/js/478.69df9860.chunk.js.map",
+    "922.a9748d02.chunk.js.map": "/rajchhatwani.io/static/js/922.a9748d02.chunk.js.map",
+    "161.ef6d1258.chunk.js.map": "/rajchhatwani.io/static/js/161.ef6d1258.chunk.js.map",
+    "18.45393e00.chunk.js.map": "/rajchhatwani.io/static/js/18.45393e00.chunk.js.map",
+    "248.e62fa093.chunk.js.map": "/rajchhatwani.io/static/js/248.e62fa093.chunk.js.map",
+    "209.32193747.chunk.js.map": "/rajchhatwani.io/static/js/209.32193747.chunk.js.map",
+    "745.b5c83463.chunk.js.map": "/rajchhatwani.io/static/js/745.b5c83463.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fc8ac9a.css",
+    "static/js/main.4cca03c3.js"
+  ]
+}

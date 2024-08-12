@@ -1,11 +1,11 @@
 {
   "name": "personal-site",
   "version": "4.0.0",
-  "homepage": "https://rajchhatwani.github.io/rajchhatwani.io",
+  "homepage": "https://rajchhatwani.github.io/myportfolio",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rajchhatwani/rajchhatwani.io.git"
+    "url": "https://github.com/rajchhatwani/myportfolio"
   },
   "engines": {
     "node": ">=16.x"

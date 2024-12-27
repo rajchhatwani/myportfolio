@@ -9,6 +9,7 @@ const Skills = () => (
         Note: I think these sections are silly, but everyone seems to have one.
         Here is a *mostly* honest overview of my skills.
       </p>
+      <p>JS | Node.JS | React.JS | MongoDB | Express.JS</p>
     </div>
   </div>
 );

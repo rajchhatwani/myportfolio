@@ -3,14 +3,14 @@ import { Link } from 'react-router-dom';
 
 import ContactIcons from '../Contact/ContactIcons';
 
-const { PUBLIC_URL } = process.env; // set automatically from package.json:homepage
+// const { PUBLIC_URL } = process.env; // set automatically from package.json:homepage
 
 const SideBar = () => (
   <section id="sidebar">
     <section id="intro">
-      <Link to="/" className="logo">
-        <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
-      </Link>
+      {/* <Link to="/" className="logo">
+        <img src={`${PUBLIC_URL}/images/me.png`} alt="" />
+      </Link> */}
       <header>
         <h2>Raj Chhatwani</h2>
         <p>
@@ -23,7 +23,7 @@ const SideBar = () => (
       <h2>About</h2>
       <p>
         Hi, I&apos;m Raj. I am pursuing B.Tech Computer Engineering from{' '}
-        <a href="https://silveroakuuni.ac.in">Silver Oak University.</a>{' '}
+        <a href="https://silveroakuni.ac.in">Silver Oak University.</a>{' '}
         Learnig and exploring new stuff related to web development.
       </p>
       <ul className="actions">

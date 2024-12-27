@@ -1,47 +1,47 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
+    title: 'Direct in-browser customizable portfolio site for client at Clementius LLP',
+    subtitle: 'Direct in-browser customizable portfolio site for client at Clementius LLP',
+    image: '/images/projects/portfolio_1.webp',
+    date: '2023-08-20',
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+      'Build for client, requirement was. '
+      + 'to make sellable portfolio templets which are directly editable, '
+      + 'and also directly sharable to anyone, '
+      + 'with their specific URL, and after customization direct payment gatway to purchase saved changes.',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
+    title: 'Real time Weather App',
+    subtitle: 'First project where i learned about api integration in vanilla js',
+    link: 'https://github.com/rajchhatwani/Projects/tree/main/Weather%20App',
+    image: '/images/projects/weather.webp',
+    date: '2022-04-20',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+      'In this project I learned first time about API integration used openweather map  '
+      + 'API for feaching data and also used getCurrentPosition method of JS to feach , '
+      + "current location of user and give them an accurate weather report time, date, timezone, logo, tempreature and it's feels like.",
   },
   {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
+    title: 'Gym Website made from HTML and css',
+    subtitle: 'my first site.',
+    image: '/images/projects/gym_site.webp',
+    date: '2022-01-28',
     desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
+      "This Project I created to learn about CSS, it's properties, "
+      + 'like display properties Grid, and flexbox. '
+      + 'it was also created in HTML, CSS, and vanilla JS.',
   },
   {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
+    title: 'Library store',
+    subtitle: 'This was a part of my practice projects',
+    link: 'https://github.com/rajchhatwani/Projects/tree/main/Library',
+    image: '/images/projects/library_site.webp',
+    date: '2022-02-15',
     desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+      " Wrote this site's code in HTML, CSS, and JS only. "
+      + 'It was one of my first project where i was learning about CRUD operations '
+      + 'in this one any user can add the book with author name, page count, and offcourse book name.',
   },
 ];
 

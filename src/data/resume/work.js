@@ -17,7 +17,7 @@ const work = [
     position: "JavaScript Developer Intern",
     url: "https://clementius.com",
     startDate: "2023-07-16",
-    endDate: "2024-06-15",
+    endDate: "2024-07-15",
     summary: `Collaborated with different teams and understood the requirement of project, and wrote code accordingly.
   Assisted with an existing project, helping frontend team by building many responsive UI's using ReactJS.
   Also, developed API's using ExpressJS and maintained them over time for optimal performance.

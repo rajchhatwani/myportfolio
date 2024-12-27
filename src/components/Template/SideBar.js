@@ -22,9 +22,19 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>
+<<<<<<< HEAD
         Hi, I&apos;m Raj. I am pursuing B.Tech Computer Engineering from{' '}
         <a href="https://silveroakuni.ac.in">Silver Oak University.</a>{' '}
         Learnig and exploring new stuff related to web development.
+=======
+        Hi, I&apos;m Michael. I am a{' '}
+        <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC
+        alumnus, and the co-founder and CTO of{' '}
+        <a href="https://promptfoo.dev">Promptfoo</a>. Previously, I
+        was VP of Engineering at <a href="https://usesmileid.com">SmileID</a>,
+        co-founder and CTO of <a href="https://arthena.com">Arthena</a>, and
+        co-founded <a href="https://matroid.com">Matroid</a>.
+>>>>>>> ca7e1f83b4de5cfc2596abc9139dbb4586bc1c15
       </p>
       <ul className="actions">
         <li>
